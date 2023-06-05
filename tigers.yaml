@@ -1,6 +1,10 @@
 team: Tigers
 
 manager: Donald
+<<<<<<< HEAD
+=======
+coach: Grace
+>>>>>>> parent of 8f1e502 (Add Coach Grace to Tigers)
 
 coach: Grace
 
