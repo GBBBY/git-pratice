@@ -1,7 +1,13 @@
 team: Panthers
 
 manager: Sebastian
+<<<<<<< HEAD
 coach: Shirley
+=======
+
+coach : Raymond
+
+>>>>>>> 161473d (zzz)
 members:
 - Violet
 - Stella
